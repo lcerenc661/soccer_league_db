@@ -1,0 +1,10 @@
+key=feature_info
+
+val = {
+    "path_file":"/usr/local/airflow/premier_positions.csv", #final csv route
+    "stage":"demo_stage", #Snowflake Stage 
+    "table":"football_leagues", #Snowflake table
+    "DWH":"normal_wh", #Snowflake Datawarehouse
+    "DB":"leagues",#Snowflake Database
+    "ROLE":"accountadmin" #Snowflake role
+}
