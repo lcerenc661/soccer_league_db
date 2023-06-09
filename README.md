@@ -1,7 +1,7 @@
 
 # Soccer leagues data to Snowflake
 
-In this project was developed an ETL process (using Python, pandas) orchested by Airflow and loaded in Snowflake
+this project was developed an ETL process (using Python, pandas) orchested by Airflow and loaded in Snowflake
 
 
 
